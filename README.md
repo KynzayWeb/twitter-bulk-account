@@ -1,11 +1,6 @@
 # twitter-bulk-account
 (no have while)
 
-## Features screenshots
-
-> Exemple
-<img src="exempletwitter.gif" width="665" height="369"/> 
-
 ## using
 > first
 * pip install requirements.txt
